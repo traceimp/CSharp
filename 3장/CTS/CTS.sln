@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConversion", "FloarConversion\FloatConversion.csproj", "{BC9FFBF6-BBCF-4264-B180-564410A99DB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTS", "CTS\CTS.csproj", "{DCA0880E-E64F-4A0D-B068-29964DB4E23B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC9FFBF6-BBCF-4264-B180-564410A99DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC9FFBF6-BBCF-4264-B180-564410A99DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC9FFBF6-BBCF-4264-B180-564410A99DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC9FFBF6-BBCF-4264-B180-564410A99DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA0880E-E64F-4A0D-B068-29964DB4E23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA0880E-E64F-4A0D-B068-29964DB4E23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA0880E-E64F-4A0D-B068-29964DB4E23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA0880E-E64F-4A0D-B068-29964DB4E23B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D9A96DBE-645A-4AD8-8864-419B2B122382}
+		SolutionGuid = {E1A58EF6-6075-4192-94F3-9BD5F4B44504}
 	EndGlobalSection
 EndGlobal
