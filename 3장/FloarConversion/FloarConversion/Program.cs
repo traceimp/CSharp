@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FloarConversion
+namespace FloatConversion
 {
     class Program
     {
